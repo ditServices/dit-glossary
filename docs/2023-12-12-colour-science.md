@@ -8,4 +8,4 @@ categories: terms
 
 # Colour Science and Management
 
-Colour science in general is discribed as the field and technciques required for measuring, processing and accurately displaying colour. Colour management is the practice of applying colour science concepts to manage the formation of images on a production.
+Colour science in general is described as the field and technciques required for measuring, processing and accurately displaying colour. Colour management is the practice of applying colour science concepts to manage the formation of images on a display.

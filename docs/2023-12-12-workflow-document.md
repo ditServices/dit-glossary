@@ -8,4 +8,4 @@ categories: terms
 
 # Workflow Document 
 
-A document that is produced by the DIT or digital lab that outlines the processes, colour management, camera specs for compliance when working on a production. 
+A workflow document is a designed to be a central source of truth that is produced by the DIT or digital lab. It's purpose is to outline and document the processes, colour management, camera specs for compliance when working on a production. 
