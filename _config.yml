@@ -27,9 +27,11 @@ url: "www.dit-glossary.co.uk" # the subpath of your site, e.g. /blog
 baseurl: "dit-glossary" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
 
 
 aux_links:
