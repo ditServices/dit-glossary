@@ -36,7 +36,7 @@ plugins:
 
 aux_links:
   "About":
-    - About
+    - /about.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
