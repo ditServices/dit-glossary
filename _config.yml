@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A database of DIT (Digital Imaging Technican) and post production terms
 domain: dit-glossary.co.uk
 url: "" # the subpath of your site, e.g. /blog
-baseurl: "www.dit-glossary.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
