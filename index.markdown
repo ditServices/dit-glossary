@@ -23,11 +23,17 @@ Instead, the near-set DIT typically focuses on tasks such as overseeing data tra
 
 ### [On Set DIT]( {% link docs/2023-12-12-on-set.md %} )
 
-A DIT on set, often known as a "Livegrade DIT" owing to the specific software utilized, is widely recommended, particularly for high-end productions where meticulous color management is crucial. In this specialized role, the technician actively engages with a live feed from the camera, employing a series of precise color transforms within an approved color management system tailored to the project's requirements.
+A DIT on set, often known as a "Livegrade DIT" owing to the specific software utilized, is widely recommended, particularly for high-end productions where meticulous colour management is crucial. In this specialized role, the technician actively engages with a live feed from the camera, employing a series of precise colur transforms within an approved colour management system tailored to the project's requirements.
 
-Within the context of on-set operations, the division of responsibilities becomes crucial for optimizing workflow. Typically, data management tasks are entrusted to an assistant or a dedicated data manager, often supported by a dailies lab. This strategic allocation of responsibilities ensures that the DIT can focus on real-time color adjustments and image enhancement without being encumbered by data management duties.
+Within the context of on-set operations, the division of responsibilities becomes crucial for optimizing workflow. Typically, data management tasks are entrusted to an assistant or a dedicated data manager, often supported by a dailies lab. This strategic allocation of responsibilities ensures that the DIT can focus on real-time colour adjustments and image enhancement without being encumbered by data management duties.
 
 Conversely, the practice of managing data on a mobile cart that traverses the set and various locations is discouraged. This approach is considered suboptimal, as it may not only compromise the integrity of the data but also limit the technician's capabilities, particularly in terms of comprehensive image analysis. By centralizing data management responsibilities and adhering to a more controlled environment, the Livegrade DIT can concentrate on refining and perfecting the visual aspects of the production, ultimately contributing to the overall quality of the final product.
+ 
+### [Digital Lab / Dailies Lab]( {% link docs/2023-12-13-digital-lab.md %} )
+
+A Digital Dailies Lab is a central facility in contemporary film production dedicated to processing and reviewing daily footage captured during shoots. Managed by experienced technicians, the lab ensures a swift and secure transfer of raw digital files from set cameras. It conducts rigorous quality control, applies preliminary colour grading, and securely stores the material for subsequent post-production stages. The lab offers filmmakers early visual feedback, expediting decision-making and fostering collaboration among key stakeholders.
+
+Digital Dailies Labs provide a rapid turnaround for reviewing daily footage, allowing for informed creative decisions and efficient problem-solving. This centralized approach offloads technical responsibilities from on-set crews, enabling them to focus on capturing high-quality footage. By streamlining communication between on-set and post-production teams, the lab contributes to a more efficient workflow, ultimately enhancing the overall success of film production.
 
 ## Contributions 
 
