@@ -8,4 +8,4 @@ categories: terms
 
 # Livegrade
 
-Livegrade is the name of a software application from the same company that created Silverstack. The term "Livegrade DIT" has also become synonymous for an on-set DIT. 
+Livegrade is the name of a software application from the same company that created [Silverstack]({% link docs/2023-12-12-silverstack.md %}). The term "Livegrade DIT" has also become synonymous for an on-set DIT. 
