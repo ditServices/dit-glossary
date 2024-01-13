@@ -15,6 +15,8 @@ Welcome to the Digital Imaging Technician (DIT) Glossary, a collection of terms 
 
 Created by DIT Services - [digitalimagingtech.co.uk](https://digitalimagingtech.co.uk)
 
+If you found the information in this website useful, please consider supporting it's maintainance by purchasing our [app.](https://www.digitalimagingtech.co.uk/resources/p/cdl-toolbox)
+
 # <u>Pinned Definitions</u>
 
 {% capture source %}
